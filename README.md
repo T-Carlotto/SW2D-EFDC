@@ -1,3 +1,7 @@
 Developer: Tomas Carlotto
 
-Important updates will be added soon.
+    Prerequisites for using parallel code:
+    Computer equipped with NVIDIA GPU (compatible with CUDA technology).
+    Software required: CUDA™ Toolkit 10.0 or later 
+                  
+    System: Linux
